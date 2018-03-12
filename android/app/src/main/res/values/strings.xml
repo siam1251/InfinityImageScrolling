@@ -1,3 +1,4 @@
 <resources>
-	<string name="app_name">Figure1Test</string>
+    <string name="app_name">Figure1Test</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
 </resources>
